@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop HP Pavilion",
+    "description": "Laptop de alto rendimiento con procesador Intel Core i7, 16GB RAM y 512GB SSD. Perfecta para trabajo y gaming.",
+    "price": 899.99,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+    "category": "Laptops",
+    "stock": 15,
+    "rating": 4.5,
+    "reviews": 128,
+    "specifications": {
+      "brand": "HP",
+      "model": "Pavilion 15",
+      "color": "Plata",
+      "size": "15.6 pulgadas",
+      "weight": "2.1 kg",
+      "material": "Aluminio"
+    }
+  },
+  {
+    "id": "2",
+    "name": "iPhone 15 Pro",
+    "description": "El último iPhone con cámara profesional, chip A17 Pro y diseño en titanio. La experiencia móvil definitiva.",
+    "price": 1199.99,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+    "category": "Smartphones",
+    "stock": 8,
+    "rating": 4.8,
+    "reviews": 256,
+    "specifications": {
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "color": "Titanio Natural",
+      "size": "6.1 pulgadas",
+      "weight": "187g",
+      "material": "Titanio"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Samsung Galaxy S24",
+    "description": "Smartphone Android de vanguardia con IA integrada, cámara de 200MP y pantalla AMOLED de 6.8 pulgadas.",
+    "price": 1099.99,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+    "category": "Smartphones",
+    "stock": 12,
+    "rating": 4.6,
+    "reviews": 189,
+    "specifications": {
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "color": "Negro",
+      "size": "6.8 pulgadas",
+      "weight": "232g",
+      "material": "Vidrio y Aluminio"
+    }
+  },
+  {
+    "id": "4",
+    "name": "MacBook Air M3",
+    "description": "Laptop ultraligera con chip M3, hasta 18 horas de batería y pantalla Liquid Retina. Ideal para creativos.",
+    "price": 1299.99,
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+    "category": "Laptops",
+    "stock": 6,
+    "rating": 4.9,
+    "reviews": 312,
+    "specifications": {
+      "brand": "Apple",
+      "model": "MacBook Air M3",
+      "color": "Space Gray",
+      "size": "13.6 pulgadas",
+      "weight": "1.24 kg",
+      "material": "Aluminio"
+    }
+  },
+  {
+    "id": "5",
+    "name": "AirPods Pro",
+    "description": "Auriculares inalámbricos con cancelación activa de ruido, audio espacial y hasta 6 horas de reproducción.",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=400",
+    "category": "Audio",
+    "stock": 25,
+    "rating": 4.7,
+    "reviews": 445,
+    "specifications": {
+      "brand": "Apple",
+      "model": "AirPods Pro 2",
+      "color": "Blanco",
+      "size": "Universal",
+      "weight": "5.3g por auricular",
+      "material": "Plástico"
+    }
+  },
+  {
+    "id": "6",
+    "name": "iPad Air",
+    "description": "Tablet versátil con chip M2, pantalla Liquid Retina de 10.9 pulgadas y compatibilidad con Apple Pencil.",
+    "price": 599.99,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+    "category": "Tablets",
+    "stock": 18,
+    "rating": 4.4,
+    "reviews": 167,
+    "specifications": {
+      "brand": "Apple",
+      "model": "iPad Air 5",
+      "color": "Azul",
+      "size": "10.9 pulgadas",
+      "weight": "461g",
+      "material": "Aluminio"
+    }
+  }
+] 
